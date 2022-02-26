@@ -1,1 +1,1 @@
-# Example ERC20 hardhat base typescript template 
+# Example ERC20 hardhat base typescript template
