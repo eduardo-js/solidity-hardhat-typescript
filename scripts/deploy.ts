@@ -9,7 +9,7 @@ async function main() {
   console.log("Greeter deployed to:", greeter.address);
 }
 
-main().catch((error) => {
+main().catch(error => {
   console.error(error);
   process.exitCode = 1;
 });
